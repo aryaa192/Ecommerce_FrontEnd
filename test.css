@@ -1,0 +1,14 @@
+<style>.nav-sprite-v1 .nav-sprite, .nav-sprite-v1 .nav-icon {
+  background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/gno/sprites/nav-sprite-global_bluebeacon-V3-1x_optimized._CB468962293_.png);
+  background-position: 0 1000px;
+  background-repeat: repeat-x;
+}
+.nav-spinner {
+  background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/javascripts/lib/popover/images/snake._CB138350263_.gif);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.nav-bluebeacon .nav-cobrand {
+  background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/gno/images/irctc/IRCTC_Logo-dark-small._CB314487787_.png);
+}
+</style>
